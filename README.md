@@ -4,7 +4,7 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Adrian Ricketts, Abby Wambach, Anthony Zhou
 
-🔗 Link to deployed app: pending
+🔗 Link to deployed app: https://coresync.you
 
 ## About
 
@@ -41,7 +41,7 @@ Gif: https://imgflip.com/gif/aburzw
 ### [ADDITIONAL FEATURES Pending, Reviewed 11.11.2025 ]
 Leaderboard comparing users’ progress ✅
 Dark mode toggle ✅
-Automated “Beginner Workout Plan” generator (Custom Feature #1) 
+Automated “Beginner Workout Plan” generator (Custom Feature #1) ✅
 Error handling for invalid workout entries (Custom Feature #2) ✅
 
 ## Installation Instructions
