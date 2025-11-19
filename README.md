@@ -4,7 +4,7 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Adrian Ricketts, Abby Wambach, Anthony Zhou
 
-🔗 Link to deployed app: https://coresync.you
+🔗 Link to deployed app: https://coresync-9o7f.onrender.com/ , or custom domain: https://coresync.you
 
 ## About
 
