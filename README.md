@@ -38,7 +38,7 @@ Users unlock achievements for consistency (like “7-Day Streak” or “First 1
 
 Gif: https://imgflip.com/gif/aburzw
 
-### [ADDITIONAL FEATURES Pending, Reviewed 11.11.2025 ]
+### [ADDITIONAL FEATURES ]
 Leaderboard comparing users’ progress ✅
 Dark mode toggle ✅
 Automated “Beginner Workout Plan” generator (Custom Feature #1) ✅
