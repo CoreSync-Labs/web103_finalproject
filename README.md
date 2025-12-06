@@ -10,7 +10,7 @@ Designed and developed by: Adrian Ricketts
 
 FitTrack helps users log workouts, track fitness goals, and visualize progress over time. 
 
-We wanted to make staying active more rewarding and trackable, inspired by gamified health apps like Strava and Fitbit. *Inspiration
+I wanted to make staying active more rewarding and trackable, inspired by Computer Vision knowledge which incorporates gamified health apps like Strava and Fitbit. 
 
 ## Tech Stack
 
