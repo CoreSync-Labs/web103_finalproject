@@ -1,6 +1,6 @@
 # CoreSync-FinalProject
 
-CodePath WEB103 Final Project
+ComputerVision Final Project
 
 Designed and developed by: Adrian Ricketts
 
